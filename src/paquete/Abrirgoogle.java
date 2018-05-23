@@ -10,8 +10,9 @@ public class Abrirgoogle {
 		
 		WebDriver driver=new FirefoxDriver();
 		
-		driver.get("http://www.google.com");
+		driver.get("http://www.yahoo.com");
 		
+		//prueba
 		
 	}
 }
